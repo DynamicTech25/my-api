@@ -1,6 +1,6 @@
 # HNG Stage 1 – Personal API
 
-## 📌 Project Description
+##  Project Description
 
 This is a simple REST API built as part of the HNG DevOps Stage 1 task.
 The API provides basic endpoints to check service status and return personal information.
@@ -9,13 +9,13 @@ The application is deployed on an AWS EC2 server and served publicly using Nginx
 
 ---
 
-## 🚀 Live URL
+##  Live URL
 
 http://52.90.23.175  
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * Node.js
 * Express
@@ -24,7 +24,7 @@ http://52.90.23.175
 
 ---
 
-## 🧪 How to Run Locally
+##  How to Run Locally
 
 1. Clone the repository:
 
@@ -53,7 +53,7 @@ http://localhost:3000
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### 1. GET /
 
@@ -103,7 +103,7 @@ Response:
 
 ---
 
-## 📦 Deployment Details
+##  Deployment Details
 
 * Application runs on port 3000 (private)
 * Nginx routes public traffic (port 80) to the application
